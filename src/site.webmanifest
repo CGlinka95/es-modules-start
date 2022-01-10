@@ -1,0 +1,19 @@
+{
+    "name": "Jim Hortons",
+    "short_name": "Jim Hortons",
+    "icons": [
+        {
+            "src": "favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicons/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c8112e",
+    "background_color": "#c8112e",
+    "display": "standalone"
+}
